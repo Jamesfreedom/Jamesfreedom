@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, React, Python, etc..
 - 💞️ I’m looking to collaborate on potential projects
 - 📫 How to reach me: wa.me/2349035125317
-- 😄 Pronouns: English
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Team work
 
 <!---
